@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 73c4a21929155e54e807d5e70235ff1b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GJM realbook
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 89d4872f22c6ef14caa48dfdd25abf33, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
